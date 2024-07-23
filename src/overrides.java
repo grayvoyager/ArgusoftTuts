@@ -1,5 +1,5 @@
 public class overrides {
-    final void property()
+     void property()
     {
         System.out.println("Cashed up!!");
     }
@@ -10,7 +10,7 @@ public class overrides {
 }
 class pua extends overrides
 {
-    final void property ()
+     void property ()
  {
      System.out.println("Megan");
  }
